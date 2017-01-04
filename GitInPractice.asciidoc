@@ -2,4 +2,5 @@ Git in Practice
 
 makes
 // TODO is this joke funny?
-GitInPerfect
+GitInPerfectProgressive
+// TODO Comic
