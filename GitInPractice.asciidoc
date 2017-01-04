@@ -1,6 +1,4 @@
 Git in Practice
 
-makes
-// TODO is this joke funny?
-GitInPerfectProgressive
-// TODO Comic
+Chapter One
+
